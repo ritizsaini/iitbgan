@@ -19,7 +19,7 @@ design:
   columns: "1"
   background:
     image: coders.jpg
-    image_darken: 0
+    image_darken: 0.75
     image_parallax: false
     image_position: center
     image_size: cover
