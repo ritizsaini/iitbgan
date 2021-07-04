@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: false
+day_night: true
 font: classic
 font_size: M
 
@@ -52,7 +52,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
@@ -62,7 +62,7 @@ address_format: en-us
 
 # Site features
 
-highlight: false
+highlight: true
 math: false
 diagram: false
 privacy_pack: false
