@@ -6,8 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
+title: "GaN Modeling group"
+subtitle: "IIT Bombay"
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The IITB-GaN process design kit, a robust look-up table based model for Gallium Nitride (GaN) High Electron Mobility Transistors, was developed as a joint effort between Indian Institute of Technology Bombay and BHEL.
