@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
@@ -29,4 +29,6 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+IIT Bombay is located at Powai, which is an Eastern Suburb in the north-eastern part of Mumbai. It is easily accessible by public transport, suburban railway transport and cabs from all major train stations and airports in Mumbai. Transport fares and suggestions to reach our campus are detailed on [this page](http://www.iitb.ac.in/en/about-iit-bombay/getting-to-iit-bombay) .
+
+Once you reach IIT-Bombay campus, the route to our facility is highlighted in the map below. There is limited parking area available close to our facility.
