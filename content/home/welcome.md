@@ -7,14 +7,15 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "GaN Modeling group"
+summary: "IIT Bombay"
 subtitle: "IIT Bombay"
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 advanced:
   css_style:
   css_class:
 ---
 
-The IITB-GaN process design kit, a robust look-up table based model for Gallium Nitride (GaN) High Electron Mobility Transistors, was developed as a joint effort between Indian Institute of Technology Bombay and BHEL.
+ The IITB-GaN process design kit, a robust look-up table based model for Gallium Nitride (GaN) High Electron Mobility Transistors, was developed as a joint effort between Indian Institute of Technology Bombay and BHEL.

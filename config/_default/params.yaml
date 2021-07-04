@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
-font: classic
-font_size: M
+font: Minimal
+font_size: l
 
 # SEO
 
@@ -20,19 +20,20 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: ritizsaini@iitb.ac.in
+phone: +91 7742746619
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Nano Fabrication Lab
+  city: Mumbai
+  region: MH
+  postcode: '400076'
+  country: India
+  country_code: IN
+  #19.135822279395427, 72.91569264711498
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '19.135822279395427'
+  longitude: '72.91569264711498'
+directions: Enter Nanofabrication building
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
