@@ -6,20 +6,22 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "GaN Modeling group"
-design:
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+title: <br> <b>MMIC IIT Bombay</b>
+subtitle: ""
+
 # hero_media: welcome.jpg   
 cta:
   url: "https://github.com/ritizsaini/iitbgan/blob/main/assets/MMIC_IITB.zip?raw=true"
-  label: MMIC-IITB v0.0.1
+  label: Get Started
   icon_pack: fas
   icon: download
 
 cta_alt:
-  url: 'https://wowchemy.com'
+  url: doc
   label: View Documentation
+cta_note:
+  label: "MMIC-IITB Version: 0.0.1"
+    
 design:
   columns: "1"
   background:
@@ -28,7 +30,7 @@ design:
     gradient_end: 'rgb(0,0,0)'
     text_color_light: true
     image: welcome.jpg
-    image_darken: 0.5
+    image_darken: 0.4
     image_parallax: true
     image_position: center
     image_size: fill
@@ -38,7 +40,7 @@ advanced:
   css_class: fullscreen
 advanced:
   css_style:
-  css_class:
+  css_class: fullscreen
 ---
 <br>
 

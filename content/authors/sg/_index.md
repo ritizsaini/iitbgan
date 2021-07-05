@@ -1,41 +1,39 @@
 ---
 # Display name
-title: Prof. Dipankar Shah
+title: Prof. Swaroop Ganguly
 
-# Username (this should match the folder name)
 authors:
-- 吳恩達
+- sg
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chief Investigator, Nanoelectronics Network for Research and Applications
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: IIT Bombay
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Semiconductor Modeling & Simulation - from Materials to Devices to Circuits
+- Quantum Biomimetic Technologies
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD
+    institution: University of Texas at Austin
+    year: 2005
+  - course: MSE 
+    institution: University of Texas at Austin
+    year: 2001
+  - course: B.Tech
+    institution: IIT Kharagpur
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,13 +61,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Our earlier work here mostly targeted next-generation (silicon/germanium based) logic/memory transistor technologies. These days, it is oriented more towards wide-bandgap material (e.g. GaN, SiC) based transistors for high-speed and high-power applications. Our interest has been to connect materials modeling to device design, and device design to circuit simulation. We use a combination of commercial simulation tools as well as simple tools developed in-house (e.g. MATLAB based, especially for aspects of device modeling). The overarching goal here is to relate emerging physical effects at the material or device level to their circuit-level impact.

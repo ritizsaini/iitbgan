@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: Minimal
 day_night: true
 font: Minimal
 font_size: l
@@ -14,14 +14,14 @@ font_size: l
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
+org_name: 'IIT Bombay'
 description: My research group description.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ritizsaini@iitb.ac.in
-phone: +91 7742746619
+email: xyz@iitb.ac.in
+phone: +91 9999999999
 address:
   street: Nano Fabrication Lab
   city: Mumbai
@@ -29,10 +29,10 @@ address:
   postcode: '400076'
   country: India
   country_code: IN
-  #19.135822279395427, 72.91569264711498
+  #19.131568554824987, 72.91653330190174
 coordinates:
-  latitude: '19.135822279395427'
-  longitude: '72.91569264711498'
+  latitude: '19.131568554824987'
+  longitude: '72.91653330190174'
 directions: Enter Nanofabrication building
 office_hours:
   - 'Monday 10:00 to 13:00'
