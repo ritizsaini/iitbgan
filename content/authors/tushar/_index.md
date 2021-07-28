@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RF Design Engineer at Renesas Electronics
+role: Visiting Professor, IIT Bombay
 
 # Organizations/Affiliations
 organizations:
